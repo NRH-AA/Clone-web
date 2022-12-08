@@ -151,6 +151,12 @@ p {
     box-shadow: 3px 2px 8px #6f7287;
 }
 
+#bottom_button:hover {
+    color: #f05537;
+    border-color: #f05537;
+    box-shadow: 3px 2px 8px #f05537;
+}
+
 footer {
     background-color: #1e0a3c;
     height: 80px;
